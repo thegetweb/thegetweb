@@ -33,5 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetweb&show_icons=true&locale=en&layout=compact" alt="thegetweb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegetweb&show_icons=true&locale=en" alt="thegetweb" /></p>
-
