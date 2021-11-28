@@ -1,11 +1,14 @@
+
+
 <h1 align="center">Hi 👋, I'm thegetweb</h1>
-<h3 align="center">The get web provides best front-end web services. Thegetweb looking forward to working with you soon!</h3>
+<h3 align="center">The get web provides best front-end web services.The majority of my applications are developed using a mix of Javascript and Reactjs. Thegetweb looking forward to working with you soon!</h3>
+
+
+<a href="https://ibb.co/s2znC1H"><img src="https://i.ibb.co/wRjV7Qs/sakin.jpg" alt="sakin" border="0" width="100%"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegetweb&label=Profile%20views&color=0e75b6&style=flat" alt="thegetweb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegetweb" alt="thegetweb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thegetweb" target="blank"><img src="https://img.shields.io/twitter/follow/thegetweb?logo=twitter&style=for-the-badge" alt="thegetweb" /></a> </p>
 
 - 💬 Ask me about **css, sass, javascript, react**
 
@@ -32,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegetweb&show_icons=true&locale=en" alt="thegetweb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetweb&" alt="thegetweb" /></p>
