@@ -4,8 +4,7 @@
 <h3 align="center">The get web provides best front-end web services.The majority of my applications are developed using a mix of Javascript and Reactjs. Thegetweb looking forward to working with you soon!</h3>
 
 
-<a href="https://ibb.co/s2znC1H"><img src="https://i.ibb.co/wRjV7Qs/sakin.jpg" alt="sakin" border="0" width="100%"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-
+<a href="https://ibb.co/LtXwP8M"><img src="https://i.ibb.co/YkF9W36/i-m-especially-frontend-web-developer-Thegetweb-looking-forward-to-working-with-you-soon.jpg" alt="Thegetweb" border="0" width="800"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegetweb&label=Profile%20views&color=0e75b6&style=flat" alt="thegetweb" /> </p>
 
